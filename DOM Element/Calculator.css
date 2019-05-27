@@ -1,0 +1,111 @@
+body{
+  background: #a6ddf7;
+}
+h1{
+  font-style: oblique;
+}
+strong{
+  font-family: cursive;
+}
+#textid{
+  width: 485px;
+  height: 25px;
+}
+#one{
+  width: 50px;
+  margin: 3px;
+  margin-inline-end: 30px;
+  height: 50px;
+      background: gold;
+}
+#two{
+      background: gold;
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#three{
+width: 50px;
+    background: gold;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;}
+#four{
+  width: 50px;
+      background: gold;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#five{
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+    background: gold;
+height: 50px;
+}
+#six{
+      background: gold;
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#seven{
+      background: gold;
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#eight{
+      background: gold;
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#nine{
+      background: gold;
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#zero{
+      background: gold;
+  width: 50px;
+margin: 3px;
+margin-inline-end: 30px;
+height: 50px;
+}
+#plus{
+  height: 50px;
+width: 140px;
+    background: bisque;
+}
+#minus{
+  margin: 4px;
+  height: 50px;
+  width: 135px;
+      background: bisque;
+}
+#division{
+  height: 50px;
+width: 137px;
+margin-left: 30px;
+    background: bisque;
+}
+#multiplication{
+  height: 50px;
+  width: 140px;
+  margin-left: 30px;
+      background: bisque;
+}
+#equal{
+  margin: 4px;
+  height: 50px;
+  width: 135px;
+      background: bisque;
+}
